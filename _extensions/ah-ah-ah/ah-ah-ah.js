@@ -19,7 +19,7 @@ window.RevealAhAhAh = function () {
         img.classList.remove("ah-ah-ah-visible");
       });
 
-      deck.addKeyBinding({ keyCode: 77, key: "M", description: "Play ah-ah-ah" }, function () {
+      deck.addKeyBinding({ keyCode: 90, key: "Z", description: "Play ah-ah-ah" }, function () {
         const maxX = window.innerWidth  - img.offsetWidth;
         const maxY = window.innerHeight - img.offsetHeight;
         const randomX = Math.floor(Math.random() * maxX);
