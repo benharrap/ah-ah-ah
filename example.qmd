@@ -8,4 +8,4 @@ revealjs-plugins:
 
 ## Did you say the magic word?
 
-Press `M`
+Press `Z`
