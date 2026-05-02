@@ -15,7 +15,7 @@ If you're using version control, you will want to check in this directory.
 
 ## Using
 
-Simply press `M` on any slide to summon Wayne Knight at a random location.
+Simply press `Z` on any slide to summon Wayne Knight at a random location.
 
 ## Example
 
