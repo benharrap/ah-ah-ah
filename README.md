@@ -1,6 +1,6 @@
 # ah-ah-ah extension For Quarto/RevealJS presentations
 
-Add some nostalgic silliness (or cringe, depending on your audience) to your presentations with a snippet from the iconic ["ah-ah-ah, you didn't say the magic word" scene](https://www.youtube.com/watch?v=RfiQYRn7fBg){target="_blank"} in Jurassic Park (1993).
+Add some nostalgic silliness (or cringe, depending on your audience) to your presentations with a snippet from the iconic ["ah-ah-ah, you didn't say the magic word" scene](https://www.youtube.com/watch?v=RfiQYRn7fBg) in Jurassic Park (1993).
 Copyright of the imagery and audio remains that of Universal Studios and Amblin Entertainment, Inc., or whoever happens to own it at the time of reading this (it's certainly not me).
 Code written by Claude.
 
