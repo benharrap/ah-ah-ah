@@ -1,0 +1,11 @@
+#ah-ah-ah-img {
+  display: none;
+  position: fixed;
+  z-index: 9999;
+  max-width: 80vw;
+  max-height: 80vh;
+}
+
+#ah-ah-ah-img.ah-ah-ah-visible {
+  display: block;
+}

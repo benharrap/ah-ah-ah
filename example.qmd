@@ -1,0 +1,11 @@
+---
+title: "ah-ah-ah example"
+format:
+  revealjs: default
+revealjs-plugins:
+  - ah-ah-ah
+---
+
+## Did you say the magic word?
+
+Press `M`
