@@ -4,11 +4,11 @@ window.RevealAhAhAh = function () {
     init: function (deck) {
 
       const img = document.createElement("img");
-      img.src = "ah-ah-ah.gif";
+      img.src = "./_extensions/benharrap/ah-ah-ah/ah-ah-ah.gif";
       img.id = "ah-ah-ah-img";
 
       const audio = document.createElement("audio");
-      audio.src = "ah-ah-ah.mp3";
+      audio.src = "./_extensions/benharrap/ah-ah-ah/ah-ah-ah.mp3";
       audio.id = "ah-ah-ah-audio";
       audio.preload = "auto";
 
