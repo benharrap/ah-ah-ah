@@ -13,6 +13,13 @@ quarto add benharrap/ah-ah-ah
 This will install the extension under the `_extensions` subdirectory.
 If you're using version control, you will want to check in this directory.
 
+Then in your RevealJS presentation YAML, add the following:
+
+```
+revealjs-plugins:
+  - ah-ah-ah
+```
+
 ## Using
 
 Simply press `Z` on any slide to summon Wayne Knight at a random location.
